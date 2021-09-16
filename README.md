@@ -8,9 +8,8 @@
 
 > Readme file is for yourself, users and the other developers.
 > 
-> Keep it ***simple*** and ***specific***.
-> 
-> Add a table if your Readme file is too long.
+> - Keep it ***simple*** and ***specific***.
+> - Add a table if your Readme file is too long.
 
 1. Description
     - It should describe what service or function this project is for.
