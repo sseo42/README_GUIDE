@@ -1,6 +1,6 @@
 # README_GUIDE
 
-> ***How to compose readme file efficiently and beautifully.***
+> How to compose readme file ***efficiently*** and ***beautifully***.
 > 
 > - In this section, put the **motivation, why you build this code, what problem does it solve, what you learn.**
 
