@@ -23,7 +23,7 @@
 3. Prerequisite
     - Write down the dependencies and the required packages.
 
-4. Getting started
+4. Getting started / Usage
     - Guide how to execute the code.
     - It would be better to give ***Usage Example***.
     
