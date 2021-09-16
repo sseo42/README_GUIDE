@@ -6,11 +6,17 @@
 
 1. Description
 
-2. Environment
+2. Prerequisite
 
-3. Prerequisite
+3. Environment / Installation Process
 
-4. Usage
+4. Getting started
+
+5. Known issues - Troubleshooting
+
+6. Credit / References
+
+7. Change logs
 
 
 
