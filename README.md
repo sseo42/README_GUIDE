@@ -39,7 +39,7 @@
     - Use date format as YYYY-MM-DD.
     - Use following Keywords to describe.
     
-        | **Keyword :receipt:**| **:sparkles:Describtion:sparkles:**   |
+        | **Keyword :receipt:**| **:sparkles:Description:sparkles:**   |
         | :------------------- | :------------------------------------ |
         | Added                | for new features.                     |
         | Changed              | for changes in existing functionality.|
