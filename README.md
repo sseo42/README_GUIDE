@@ -18,7 +18,7 @@
 2. Environment & Installation Process
     - Write down the OS / Hardware condition to run, Compilers to setup.
     - If the project is a multicore program, write down the CPU / RAM requirements to execute.
-    - Guide how to install environment ***step-by-step***.
+    - Guide how to install environments ***step-by-step***.
 
 3. Prerequisite
     - Write down the dependencies and the required packages.
