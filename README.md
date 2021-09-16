@@ -37,7 +37,7 @@
 
 7. Change logs
     - Trace only the ***noteworthy*** change.
-    - Put date format as YYYY-MM-DD.
+    - Use date format as YYYY-MM-DD.
     - Use following Keywords to describe.
     
     | **Keyword**   | **Describtion**                       |
