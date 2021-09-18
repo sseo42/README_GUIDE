@@ -56,10 +56,10 @@
 
 - [Basic Syntax][1]
 - [Extended Syntax <Table, Code Block, Footnote, Linking to Heading ID, Definition/Task List, Strikethrough, Emoji>][2]
-- [Exmple 1: Clean Emoji usage & Linking organization][3]
-- [Changelog Guide][4]
+- [Changelog Guide][3]
+- [Exmple 1: Clean Emoji usage & Linking organization][4]
 
 [1]: https://www.markdownguide.org/basic-syntax/
 [2]: https://www.markdownguide.org/extended-syntax/
-[3]: https://github.com/llefranc/42_ft_containers/blob/main/README.md
-[4]: https://keepachangelog.com/en/1.0.0/
+[3]: https://keepachangelog.com/en/1.0.0/
+[4]: https://github.com/llefranc/42_ft_containers/blob/main/README.md
